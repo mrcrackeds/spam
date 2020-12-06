@@ -2,7 +2,7 @@
 Fix Bug Mr.Cracked
 
 
-UPDATE 10-Agustus-2019
+UPDATE 6-desember-2020
 <b><li>Spam Call Unlimited</b>
 <li>$ pkg update && pkg upgrade
 <li>$ pkg install php
